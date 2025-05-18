@@ -60,7 +60,7 @@ To validate model performance, a Random Walk baseline was implemented where each
   - tensorflow (for LSTM)
   - xgboost
   - BeautifulSoup (for web scraping)
-  - matplotlib, seaborn (for visualization)
+  - matplotlib (for visualization)
 
 ---
 
